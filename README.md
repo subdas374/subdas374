@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subdas374&label=Profile%20views&color=0e75b6&style=flat" alt="subdas374" /> </p>
 
+
+<p align="center"> <img src="https://github.com/subdas374/My-Images/blob/main/Mountain%20Graph%20%7Bgif%7D.gif" alt= "mountain"  width="800" height="400"/> </p>
+
 - 💬 Ask me about **Data Analysis, ML, Data Science**
 
 <h3 align="left">Connect with me:</h3>
