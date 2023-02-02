@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/subdas374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subdas374" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subdas374/" target="blank"><img align="center" src="https://github.com/subdas374/My-Images/blob/main/linkedin.png" alt="subdas374" height="30" width="40" /></a>
 <a href="https://kaggle.com/subdas374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subdas374" height="30" width="40" /></a>
 </p>
 
