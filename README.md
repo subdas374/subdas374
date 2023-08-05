@@ -1,6 +1,14 @@
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+<p style="display: flex; justify-content: center;">
+  <img src="https://github.com/subdas374/My-Images/blob/main/2020980-Rumi-Quote-The-art-of-knowing-is-knowing-what-to-ignore%20(2).jpg" alt="Animated GIF" >
+</p>
+
+
 # 💫 About Me:
-I'm currently working on: Data Science projects at CodSoft as a Data Science intern.<br><br>I'm looking to collaborate on: Kaggle and GitHub projects.<br><br>I'm currently learning: Speech recognition.<br><br>Ask me about: Anything related to Data Science, my internship experience, or speech recognition.<br><br>Fun Fact: I'm excited about exploring the intersections of data and technology to solve real-world problems! 🚀
+<p>
+I'm currently working on: Data Science projects at CodSoft as a Data Science intern.<br><br>I'm looking to collaborate on: Kaggle and GitHub projects.<br><br>I'm currently learning: Speech recognition.<br><br>Ask me about: Anything related to Data Science, my internship experience, or speech recognition.<br><br>Fun Fact: I'm excited about exploring the intersections of data and technology to solve real-world problems! 🚀<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/subdas374/My-Images/blob/main/Mountain%20Graph%20%7Bgif%7D.gif" alt="Animated GIF" width="6000" height="500">
+</div>
+</p>
 
 
 ## 🌐 Socials:
