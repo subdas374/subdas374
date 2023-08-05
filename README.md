@@ -1,3 +1,4 @@
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
 # 💫 About Me:
 I'm currently working on: Data Science projects at CodSoft as a Data Science intern.<br><br>I'm looking to collaborate on: Kaggle and GitHub projects.<br><br>I'm currently learning: Speech recognition.<br><br>Ask me about: Anything related to Data Science, my internship experience, or speech recognition.<br><br>Fun Fact: I'm excited about exploring the intersections of data and technology to solve real-world problems! 🚀
 
